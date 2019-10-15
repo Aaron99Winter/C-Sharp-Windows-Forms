@@ -1,0 +1,10 @@
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\Hello World Form\Hello World Form\bin\Debug\Hello World Form.exe.config
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\Hello World Form\Hello World Form\bin\Debug\Hello World Form.exe
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\Hello World Form\Hello World Form\bin\Debug\Hello World Form.pdb
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\Hello World Form\Hello World Form\obj\Debug\Hello World Form.csprojAssemblyReference.cache
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\Hello World Form\Hello World Form\obj\Debug\Hello_World_Form.FrmMainMenu.resources
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\Hello World Form\Hello World Form\obj\Debug\Hello_World_Form.Properties.Resources.resources
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\Hello World Form\Hello World Form\obj\Debug\Hello World Form.csproj.GenerateResource.cache
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\Hello World Form\Hello World Form\obj\Debug\Hello World Form.csproj.CoreCompileInputs.cache
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\Hello World Form\Hello World Form\obj\Debug\Hello World Form.exe
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\Hello World Form\Hello World Form\obj\Debug\Hello World Form.pdb
