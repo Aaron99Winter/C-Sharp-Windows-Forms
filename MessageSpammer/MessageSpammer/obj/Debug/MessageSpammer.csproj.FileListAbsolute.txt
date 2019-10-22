@@ -1,0 +1,12 @@
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\bin\Debug\MessageSpammer.exe.config
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\bin\Debug\MessageSpammer.exe
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\bin\Debug\MessageSpammer.pdb
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.csprojAssemblyReference.cache
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.Form1.resources
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.Properties.Resources.resources
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.csproj.GenerateResource.cache
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.csproj.CoreCompileInputs.cache
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.exe
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.pdb
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.frmMainMenu.resources
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.frmSpammer.resources
