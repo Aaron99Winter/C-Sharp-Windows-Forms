@@ -1,0 +1,12 @@
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojAssemblyReference.cache
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.FrmTemplate.resources
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.FrmMainMenu.resources
+\\b-c1-fc4.serc.ac.uk\Users4\Students\W\WIN40082695\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.FrmAddBooks.resources
