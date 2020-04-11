@@ -1,0 +1,15 @@
+F:\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+F:\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+F:\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.csprojAssemblyReference.cache
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.frmLogin.resources
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.cache
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.frmMainMenu.resources
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.frmQuiz.resources
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.frmResults.resources
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.frmStudy.resources
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.frmGeoQuiz.resources
+F:\QuizApp\QuizApp\obj\Debug\QuizApp.frmMathsQuiz.resources
